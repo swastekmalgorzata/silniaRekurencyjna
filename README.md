@@ -4,13 +4,11 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
 * [Project Status](#project-status)
 
 ## General Information
-- Basic pragram that swaps the first sign and the last one sing that user keys in. 
-- The purpose was to excercise arrays and algorythms in c#.
+- Basic pragram that calculates factorial of the entered number. 
+- The purpose was to excercise recursiveness.
 - I did it for my coding classes in my first semester.
 
 ## Technologies Used.
